@@ -49,5 +49,3 @@ Neural models fail when rules change (tariffs, limits, regulations). Symbolic Se
 Sanaullah Tareen | PAF-IAST | [@SanaullahTareen](https://github.com/SanaullahTareen)
 
 ---
-
-Full details in IEEE paper or Kaggle notebook.
